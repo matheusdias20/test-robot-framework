@@ -11,6 +11,7 @@ Resource    pages/dash.resource
 Do Login
     Go To Login Page
     Submit Credentials    papito@gmail.com    vaibrasil
+    Button Login
     User Logged In
 
 Start Test
@@ -18,4 +19,7 @@ Start Test
 
 
 Finish Test
+    
+    #Thinking Time
+    Sleep            1
     Take Screenshot
